@@ -9,5 +9,3 @@ saome java logic commit-4
 saome java logic commit-5
 
 saome java logic commit-6
-
-saome java logic commit-7

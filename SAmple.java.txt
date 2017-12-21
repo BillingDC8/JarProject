@@ -4,7 +4,7 @@ saome java logic commit-2
 
 saome java logic commit-3
 
-saome java logic commit-4
+saome java logic commit-4 from master branch to practice merge conflicts
 
 saome java logic commit-5
 
